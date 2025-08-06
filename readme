@@ -1,0 +1,8 @@
+Activate conda env cmd
+conda activate "C:\Users\kjjeo\Desktop\AI Project\computer-vision-study/.conda"
+
+Creating requirements.txt
+conda list -e > requirements.txt
+
+Installing requirements.txt
+pip install -r requirements.txt
